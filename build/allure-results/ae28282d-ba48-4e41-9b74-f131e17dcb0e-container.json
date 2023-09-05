@@ -1,0 +1,1 @@
+{"uuid":"ae28282d-ba48-4e41-9b74-f131e17dcb0e","name":"checkInvalidCvcForCard()","children":["e0783a79-f2a4-4092-b063-031c47e07b2a"],"befores":[],"afters":[{"name":"cleanBase","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1693144190490,"stop":1693144191668}],"start":1693144167074,"stop":1693144192141}

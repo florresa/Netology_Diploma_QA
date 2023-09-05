@@ -1,0 +1,1 @@
+{"uuid":"1d4d5a99-7903-41af-bac6-7a0dc09b3060","name":"buyInvalidCardNumberError()","children":["c4835b7d-881d-4216-b7d2-85f667cad9f4"],"befores":[],"afters":[{"name":"cleanBase","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1693137672007,"stop":1693137672242}],"start":1693137667233,"stop":1693137672618}

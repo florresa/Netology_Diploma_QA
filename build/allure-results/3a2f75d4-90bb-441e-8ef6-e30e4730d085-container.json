@@ -1,0 +1,1 @@
+{"uuid":"3a2f75d4-90bb-441e-8ef6-e30e4730d085","name":"checkInvalidMonthOneSymbolForCredit()","children":["ffd0e4ce-4b48-43c1-b66f-d01282b8479b"],"befores":[],"afters":[{"name":"cleanBase","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1693938536610,"stop":1693938536674}],"start":1693938533073,"stop":1693938536678}
