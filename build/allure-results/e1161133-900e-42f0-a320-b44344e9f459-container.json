@@ -1,1 +1,0 @@
-{"uuid":"e1161133-900e-42f0-a320-b44344e9f459","name":"checkInvalidCvcForCredit()","children":["f9bf3777-be76-4cb0-bd43-a0cc95fd0f46"],"befores":[],"afters":[{"name":"cleanBase","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1693855805160,"stop":1693855805219}],"start":1693855802900,"stop":1693855805222}

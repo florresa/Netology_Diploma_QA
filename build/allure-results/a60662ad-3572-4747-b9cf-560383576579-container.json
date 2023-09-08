@@ -1,1 +1,0 @@
-{"uuid":"a60662ad-3572-4747-b9cf-560383576579","name":"checkInvalidMonthOneSymbolForCard()","children":["06cdca25-8a96-463d-8939-271053c4cf08"],"befores":[],"afters":[{"name":"cleanBase","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1693855950664,"stop":1693855950726}],"start":1693855947501,"stop":1693855950728}

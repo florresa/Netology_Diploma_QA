@@ -1,1 +1,0 @@
-{"uuid":"84de08e0-e101-44ed-861c-d944d54b06c8","name":"checkCardApprovedForCardBuy()","children":["60770329-b57f-4d8f-9268-fd5b22c56976"],"befores":[],"afters":[{"name":"cleanBase","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1693132473246,"stop":1693132473389}],"start":1693132459081,"stop":1693132473600}

@@ -1,1 +1,0 @@
-{"uuid":"867a01e6-2afa-4657-863d-a22d0e1a63e9","name":"checkOneSymbolYearForCredit()","children":["9f104f6f-a84c-4336-b96b-743543196975"],"befores":[],"afters":[{"name":"cleanBase","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1693938532872,"stop":1693938532945}],"start":1693938530870,"stop":1693938532948}

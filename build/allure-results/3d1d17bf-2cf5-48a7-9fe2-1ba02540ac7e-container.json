@@ -1,1 +1,0 @@
-{"uuid":"3d1d17bf-2cf5-48a7-9fe2-1ba02540ac7e","name":"checkRussianNameForCredit()","children":["2fc97b59-1def-4d47-8ee4-04c1e890e92e"],"befores":[],"afters":[{"name":"cleanBase","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1693857277589,"stop":1693857277681}],"start":1693857260160,"stop":1693857277693}

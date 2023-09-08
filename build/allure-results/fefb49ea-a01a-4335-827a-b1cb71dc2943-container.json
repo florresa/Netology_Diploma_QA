@@ -1,1 +1,0 @@
-{"uuid":"fefb49ea-a01a-4335-827a-b1cb71dc2943","name":"checkInvalidYearForCard()","children":["bba6eb29-5c21-4584-a11e-37d8f8bc0a7e"],"befores":[],"afters":[{"name":"cleanBase","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1693857079539,"stop":1693857079642}],"start":1693857077158,"stop":1693857079659}

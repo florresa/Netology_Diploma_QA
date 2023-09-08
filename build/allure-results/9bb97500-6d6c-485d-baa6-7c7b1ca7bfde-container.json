@@ -1,1 +1,0 @@
-{"uuid":"9bb97500-6d6c-485d-baa6-7c7b1ca7bfde","name":"checkRussianNameForCard()","children":["c813a8d3-c69e-4273-a4e5-b2b55ea443ba"],"befores":[],"afters":[{"name":"cleanBase","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1693857210354,"stop":1693857210448}],"start":1693857192777,"stop":1693857210456}
