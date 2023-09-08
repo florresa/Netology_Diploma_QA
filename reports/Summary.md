@@ -13,12 +13,13 @@
 2. Postgresql
 
 ### Количество тест-кейсов
-**Всего составлено:** 30 тестов
-**PASSED:**  22
-**FAILED:**  8
+**Всего составлено:** 30 тестов  
+**PASSED:**  22  
+**FAILED:**  8  
 
 ### Отчет Allure
-![](../../../../Users/RedmiBook/Desktop/Тестировщик ПО/ДИПЛОМ/Allure.png)
+<img width="815" alt="Allure" src="https://github.com/florresa/Netology_Diploma_QA/assets/116940825/baa618b5-f0f2-4fe4-99c5-f95b41625dc4">
+
 
 ### Общие рекомендации
 1. Реалиовать валидацию имени владельца карты (полное имя, имя на латинице)
